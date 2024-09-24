@@ -5,5 +5,7 @@ Welcome to BioPilot Open Research, a vibrant nexus for pioneering scientific exp
 Dive into our ambitious initiative to design thousands of synthetic cell differentiation protocols using advanced language models. By meticulously analyzing patterns in critical parameters—such as temperature, agitation speeds, pH levels, and the precise timing and quantities of growth factors and cytokines—we aim to accelerate our understanding of cell development. Each protocol is rigorously ranked for feasibility by multiple language models, allowing us to identify and prioritize the most promising and reliable strategies. Explore the nuances of our findings and uncover the patterns that drive high-confidence protocols in our Results Explorer.
 
 Visit the [Open Research Explorer](https://biopilot.net/open_research.html)
+
 Visit the [GitHub](https://github.com/MIKKELLORENZ/simulated_cell_developmental_protocols)
+
 Note: Project advancement is currently limited by GPU resources (GTX 1070).
