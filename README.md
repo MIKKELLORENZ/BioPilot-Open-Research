@@ -1,4 +1,4 @@
-#BioPilot Open Reserach
+# BioPilot Open Reserach
 
 Welcome to BioPilot Open Research, a vibrant nexus for pioneering scientific exploration. This repository serves as a comprehensive and systematic aggregation of our innovative projects, aiming to promote the sharing of novel computational approaches.
 
